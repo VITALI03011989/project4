@@ -1,0 +1,19 @@
+.prod {
+ width: 220px;height: 178px;
+ text-align: center;
+ background-image: url('https://catherineasquithgallery.com/uploads/posts/2023-01/1674372862_catherineasquithgallery-com-p-fon-tekstura-serii-foto-1.jpg');
+ background-size: cover;
+padding: 24px;
+margin: 15px;
+color:rgb(0, 0, 0);
+display: flex;
+flex-direction: column;
+align-items: center;
+border-radius: 10px;
+}
+.p { color: rgb(236, 250, 215);}
+.b {background: rgb(232, 248, 252);cursor: pointer;border-radius: 4px;}
+.w {position: fixed; background-color:rgb(123, 123, 123);left: 0;right: 0;bottom: 0}
+.wow {width: 500px;padding: 20px; background-image: url('https://kartinki.pibig.info/uploads/posts/2023-04/1680970116_kartinki-pibig-info-p-neiroset-kartinki-dlya-prezentatsii-arti-16.jpg');
+    background-size: cover;position: absolute;;top: 40px;left: 470px;;}
+.error {color:red}
